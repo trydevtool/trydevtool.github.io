@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} pokersoftware.ru
-RewriteRule (.*) http://trypok.ru/$1 [R=301,L]
