@@ -55,6 +55,8 @@
     "siteUrl": "https://pokersoftware.ru",
     "cookiesAlert": false,
     "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
