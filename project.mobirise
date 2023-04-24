@@ -47,16 +47,15 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.svg",
-    "mbrsiteDomain": "jgbsch6fee",
+    "mbrsiteDomain": "mmfwczrben",
     "usedWebp": true,
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://pokersoftware.ru",
     "cookiesAlert": false,
     "gdpr": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
