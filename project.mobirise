@@ -52,7 +52,7 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://pokersoftware.ru",
+    "siteUrl": "",
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
