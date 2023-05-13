@@ -1064,7 +1064,7 @@ a {
   display: flex;
   justify-content: center;
   padding-left: 1rem;
-  padding-right: 0rem;
+  padding-right: 0;
   padding-top: 0.3rem;
   text-align: center;
 }
