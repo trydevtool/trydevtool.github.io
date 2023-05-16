@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PokerOK",
-    "currentPage": "install.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -46,8 +46,8 @@
     "versionPublish": "5.8.9",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-new_1.svg",
-    "mbrsiteDomain": "s9svv6gssy",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.svg",
+    "mbrsiteDomain": "2yccrl0s7f",
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
@@ -63,8 +63,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "PokerOK — Онлайн покер-рум. Скачайте сейчас!",
-        "meta_descr": "Скачайте ПокерОК (GGPokerOK) с официального сайта на Windows, MacOS, Android или IOS. Бесплатная регистрация. Бонус $600 на первый депозит. Играйте на телефоне.",
+        "title": "PokerOK — Онлайн покер-рум. Скачайте клиент сейчас!",
+        "meta_descr": "PokerOK — современный онлайн покер-рум.\nСкачайте клиент ПокерОК с официального\nсайта на Windows, MAC, Android или iOS. Бесплатная регистрация и приветственный бонус $600.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -946,8 +946,8 @@
     },
     "install.html": {
       "settings": {
-        "title": "PokerOK — Инструкция по установке",
-        "meta_descr": "Скачайте ПокерОК (GGPokerOK) на ПК, Мак, Андроид и Айфон с официального сайта. Промокод: trypok. Получите бонус $600 на первый депозит. Мобильное приложение.",
+        "title": "PokerOK — Инструкция по установке (Windows, Mac, Android, IOS)",
+        "meta_descr": "Скачайте клиент ПокерОК на ПК, Мак, Андроид и Айфон с официального сайта. Получите бонус $600 на первый депозит. Регистрируйтесь бесплатно и начинайте игру.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
