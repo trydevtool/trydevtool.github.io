@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PokerOK",
-    "currentPage": "index.html",
+    "currentPage": "privacy-policy.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -49,7 +49,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/pokerok-favicon.png",
-    "mbrsiteDomain": "sqny11gnqy",
+    "mbrsiteDomain": "8r2upxvaye",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": true,
