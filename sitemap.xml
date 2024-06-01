@@ -3,15 +3,21 @@
 		<loc>https://bigpok.ru/</loc>
 	</url>
 	<url>
+		<loc>https://bigpok.ru/overview</loc>
+	</url>
+	<url>
+		<loc>https://bigpok.ru/deposits</loc>
+	</url>
+	<url>
+		<loc>https://bigpok.ru/withdraw</loc>
+	</url>
+	<url>
+		<loc>https://bigpok.ru/rake</loc>
+	</url>
+	<url>
 		<loc>https://bigpok.ru/install</loc>
 	</url>
 	<url>
-		<loc>https://bigpok.ru/terms-of-use</loc>
-	</url>
-	<url>
-		<loc>https://bigpok.ru/privacy-policy</loc>
-	</url>
-	<url>
-		<loc>https://bigpok.ru/bonus</loc>
+		<loc>https://bigpok.ru/mobile-app</loc>
 	</url>
 </urlset>
